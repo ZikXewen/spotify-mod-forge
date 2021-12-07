@@ -1,0 +1,12 @@
+{
+  "key.category.spotify": "Spotify Mod",
+  "key.spotify.login": "Spotify Login",
+  "key.spotify.next": "Next",
+  "key.spotify.play": "Play/Pause",
+  "key.spotify.prev": "Previous",
+  "message.spotify.error": "You should have an active Spotify player first.",
+  "message.spotify.next": "Skipped Forward",
+  "message.spotify.pause": "Paused",
+  "message.spotify.play": "Playing...",
+  "message.spotify.previous": "Skipped Backward"
+}
